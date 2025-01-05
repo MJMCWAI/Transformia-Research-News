@@ -1,4 +1,5 @@
 {
+    "newsData": {
     "activeNewsData": [
       {
         "newsTitle": "Testing News Check",
@@ -22,4 +23,5 @@
       }
     ]
   }
+}
   
