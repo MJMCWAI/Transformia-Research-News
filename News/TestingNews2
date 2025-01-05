@@ -1,0 +1,4 @@
+This is just a test of the news system, using Repository system. this make developement of the details Easier.
+This is a Version 2 model of MJMCWAI News System UI powered using Repository system instead of API based System.
+Downside of this setup you really need to Logic setup before the news data is prep and also you know making
+this public so people can access the files anyways.
