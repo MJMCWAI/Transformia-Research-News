@@ -2,13 +2,13 @@
     "activeNewsData": [
       {
         "newsTitle": "Testing News Check",
-        "newsFileURL": "https://example.com/news/new-features",
+        "newsFileURL": "https://raw.githubusercontent.com/MJMCWAI/Transformia-Research-News/refs/heads/master/News/TestingNews1",
         "newsImageURl": ""
       },
       {
         "newsTitle": "Testing News Check 2",
-        "newsFileURL": "https://example.com/news/update-1-1",
-        "newsImageURl": ""
+        "newsFileURL": "https://raw.githubusercontent.com/MJMCWAI/Transformia-Research-News/refs/heads/master/News/TestingNews2",
+        "newsImageURL": ""
       }
     ],
     "updateInfoData": [
@@ -19,10 +19,6 @@
       {
         "updateType": "Supporters",
         "activeUpdateVersion": "1.1.0"
-      },
-      {
-        "updateType": "PrivateBeta",
-        "activeUpdateVersion": "1.2.0"
       }
     ]
   }
