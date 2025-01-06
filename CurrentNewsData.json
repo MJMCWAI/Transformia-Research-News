@@ -14,11 +14,11 @@
     "updateInfoData": [
       {
         "updateType": "GeneralPublic",
-        "activeUpdateVersion": "1.0.0"
+        "activeUpdateVersion": "0.1.0"
       },
       {
         "updateType": "Supporters",
-        "activeUpdateVersion": "1.1.0"
+        "activeUpdateVersion": "0.1.0"
       }
     ]
   }
