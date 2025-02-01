@@ -1,6 +1,8 @@
 <size=130%>Changelog</size>
 Transformia Research Project Changelog Version 2.0
 
+※ この変更履歴は英語版 「Transformia Research 」のものです。
+
 <color=#005500><size=110%>Added</size></color>
 - Added New Chapter 0 Contents.
 - Mini-Game System!
@@ -29,6 +31,7 @@ Transformia Research Project Changelog Version 2.0
 - Change Main Menu UI.
 - Change Main Game Proper UI.
 - Change Dialogue System UI.
+- Change font typeface collection.
 - Adjust Content Tagging responsibility from Author Data to Level Data.
 - Moved Credits from Main Menu to Option UI.
 - Added Patreon and Discord button.
@@ -38,4 +41,5 @@ Transformia Research Project Changelog Version 2.0
 - Fix problem with Dialogue System.
 - Fix Chapter 0, Level 1 Twinning Procedure hidden properties.
 - Option menu not adjusting the audio properly.
+- Fix bugs with option menu
 
