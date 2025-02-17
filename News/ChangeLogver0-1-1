@@ -1,0 +1,38 @@
+<size=130%>Changelog</size>
+Transformia Research Project Changelog Version 2.0
+
+※ この変更履歴は英語版 「Transformia Research 」のものです。
+
+<color=#005500><size=110%>Added</size></color>
+- Mini-Game System!
+    - Added Test MiniGame (for Special mode dev)
+    - Added Complex Password Minigame
+    - Added Pendillum Minigame
+- Added Chapter System.
+- Implement Read-only online data retreval system
+    - News And Announcement Feature.
+    - Terms of service System
+    - Added Terms of Service UI.
+    - Added Animation to Menu UI.
+- Added Animation to Game Proper UI.
+- Added Content Warning for first time boot.
+
+※ To prevent custom mode related compatibility issue durning this developement. custom mode features is currently unavalable.
+※ Some feature may required an Internet Connection.
+
+<color=#005500><size=110%>Changed</size></color>
+- Code Optimization
+- Change Main Menu UI.
+- Change Main Game Proper UI.
+- Change Dialogue System UI.
+- Change font typeface collection.
+- Adjust Content Tagging responsibility from Author Data to Level Data.
+- Moved Credits from Main Menu to Option UI.
+- Fixed Exploration Location Image.
+
+<color=#005500><size=110%>Fixed</size></color>
+- Fix problem with Dialogue System.
+- Fix Chapter 0, Level 1 Twinning Procedure hidden properties.
+- Option menu not adjusting the audio properly.
+- Fix bugs with option menu
+
