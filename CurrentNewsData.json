@@ -1,11 +1,6 @@
 {
     "activeNewsData": [
       {
-        "newsTitle": "[IMPORTANT]Postpoment Announcement",
-        "newsFileURL": "https://raw.githubusercontent.com/MJMCWAI/Transformia-Research-News/refs/heads/master/News/PostpomentAnnouncement",
-        "newsImageURL": ""
-      },
-      {
         "newsTitle": "Welcome To Transformia Research",
         "newsFileURL": "https://raw.githubusercontent.com/MJMCWAI/Transformia-Research-News/refs/heads/master/News/WelcomeToTR",
         "newsImageURL": ""
