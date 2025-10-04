@@ -5,6 +5,11 @@
         "newsFileURL": "https://raw.githubusercontent.com/MJMCWAI/Transformia-Research-News/refs/heads/master/News/WelcomeToTR",
         "newsImageURL": ""
       },
+              {
+        "newsTitle": "Unity CVE-2025-59489 Patch notice 0.1.1.u-1",
+        "newsFileURL": "https://raw.githubusercontent.com/MJMCWAI/Transformia-Research-News/refs/heads/master/News/ChangeLogver0-1-1.U-1",
+        "newsImageURL": ""
+      },
       {
         "newsTitle": "Change Log Version 0.1.1",
         "newsFileURL": "https://raw.githubusercontent.com/MJMCWAI/Transformia-Research-News/refs/heads/master/News/ChangeLogver0-1-1",
